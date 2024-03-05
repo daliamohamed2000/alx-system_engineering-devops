@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script configures an audio server :
+# This script configures an audio server as follows:
 # **** localsolve resolves to 127.0.0.2
 # **** facebook.com resolves to 8.8.8.8
 
